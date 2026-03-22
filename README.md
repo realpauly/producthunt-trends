@@ -86,14 +86,5 @@ ai-pulse-producthunt-trends/
 🔒 Due to AWS permissions, QuickSight dashboards are private.  
 Screenshots and insights are included above.
 
----
 
-## 👤 About Me
 
-**David Fafure**  
-🎓 MSc Big Data Analytics @ Trent University  
-📍 Toronto, Canada  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/david-fafure-58776823a/)  
-🔗 [Portfolio](https://datascienceportfol.io/davidfafure)  
-🔗 [GitHub](https://github.com/DavidFaf)
